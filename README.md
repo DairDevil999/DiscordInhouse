@@ -3,6 +3,6 @@ Discord Inhouse
 
 
 
-git push <origin> <master>
+git push origin master
 
 
