@@ -3,5 +3,5 @@ Discord Inhouse
 
 
 
-ECHO
+push
 test
